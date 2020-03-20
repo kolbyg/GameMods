@@ -1,0 +1,53 @@
+----------UNSC----------
+*Turret - Range/LOS increased by 33%
+*Turret - Accuracy increased by 50%
+*Turret - Cost reduced by 50%
+*Turret - Build time reduced by 50%
+*Turret - Modifications are free, switch instantly
+*Turret - Power required for upgrades reduced by 1
+*Supply Pads - Supply rate increased by 50%
+*Reactor - Upgrade cost reduced by 200
+*Leader Power - Mac shots increased to 2,4,8,16 (from 1,2,3,4)
+*Leader Power - Carpet bomb bombs increased to 8,16,32,64 (from 4,8,12,16)
+*Leader Power - Cryo chill time doubled, kill HP increased to 24k,36k,48k,64k (from 16k,24k,36k,48k)
+*Leader Power - Upgrade cost increased for all leader superweapons
+*Leader Power - Disruption bomb timer cut in half, cost reduced from 450 to 250
+*Leader Power - ODST drop recharges in 10% of the time, costs double
+*Vulture - Requires 8 power to build
+*Vulture - Costs doubled
+*Vulture - Attack power 400%
+*Warthog - Upgrades all take 1 less power
+*Field Armory - No longer requires power
+*Scorpion - Build time reduced by 25%
+*Scorpion - Power required reduced by 1
+*Grizzly - Build time reduced by 25%
+*Grizzly - Power required reduced by 1
+
+----------Cov----------
+*Turret - Range/LOS increased by 33%
+*Turret - Accuracy increased by 50%
+*Turret - Cost reduced by 50%
+*Turret - Build time reduced by 50%
+*Turret - Modifications are free, switch instantly
+*Turret - Cost of upgrades reduced by 25%
+*Supply Pads - Supply rate increased by 50%
+*Temple - Upgrade cost reduced by 200 for level 1, 400 for level 2
+*Leader Power - All summoning costs reduced by 50%
+*Scarab - Costs 400%
+*Scarab - Attack power doubled
+*Grunt - Upgrades all take 1 less power
+
+
+TODO:----------------------------------------------------------------------
+----------UNSC----------
++Turret - Add spartan laser turret
++Turret - Add siege turret
++Turret - Add PC blast turret
++Spartan - Add superunit MC
++Warthog - Add rocket warthog
++Add rediculous elephant
+
+----------Cov----------
++Turret - Add locust beam turret
++Turret - Add Wraith mortar turret
++Turret - Add scarab beam turret
